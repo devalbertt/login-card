@@ -1,28 +1,3 @@
-<div class="login-card">
-  <div class="card-header">
-    <h2>Login</h2>
-  </div>
-  <form>
-    <div class="form-group">
-      <label for="username">Username</label>
-      <input type="text" id="username" name="username">
-    </div>
-    <div class="form-group">
-      <label for="password">Password</label>
-      <input type="password" id="password" name="password">
-    </div>
-    <div class="form-group">
-      <button type="submit">Login</button>
-    </div>
-  </form>
-</div>
-/* Estilos globais */
-* {
-  box-sizing: border-box;
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
 
 /* Estilos do cartão de login */
 .login-card {
